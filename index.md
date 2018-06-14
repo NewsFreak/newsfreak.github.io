@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# NewsFreak
 
-You can use the [editor on GitHub](https://github.com/NewsFreak/newsfreak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Many modern news apps are filled with useless features and sometimes confusing UI's. They curate the news feed, automatically select sources based on what it thinks you will like, and build their UI to keep you using their app.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NewsFreak changes this. NewsFreak doesn't curate your news feed, you do. NewsFreak doesn't select sources you might like, you do. Our app lets you decide what you want to read, rather than the other way around.
 
-### Markdown
+## Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Top Headlines from 100+ News Sources
+ 
+- Search 30,000+ News Sources
 
-```markdown
-Syntax highlighted code block
+- Granular control over sources that show up in your news feed.
 
-# Header 1
-## Header 2
-### Header 3
+- Free and Open Source
 
-- Bulleted
-- List
+## Contributing
 
-1. Numbered
-2. List
+Dont like something? Want a feature? Feel free to submit a PR!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NewsFreak/newsfreak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
