@@ -16,5 +16,5 @@ NewsFreak changes this. NewsFreak doesn't curate your news feed, you do. NewsFre
 
 ## Contributing
 
-Dont like something? Want a feature? Feel free to submit a PR! I work a day job and have several other projects I am working on so time for this is spread thin.
+Any PR's welcome.
 
